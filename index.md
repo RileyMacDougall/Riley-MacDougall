@@ -1,4 +1,4 @@
-# Hi, I'm <Riley MacDougall>
+# Hi, I'm Riley MacDougall
 Welcome to my ICS3U0R portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
